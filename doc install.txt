@@ -1,0 +1,1 @@
+veuillez configurez la BDD dans app/config/config.php
